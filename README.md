@@ -7,3 +7,4 @@ There are 10 problems/questions which are programmed using assembly language in 
 - Microprocessor Assignment document in PDF (mp-git-jishan.pdf).
 - src (Containing assembly language programs in 8085).
 - src8086 (Containing assembly language programs in 8086).
+- For concise and short cheatsheet of 8086 microprocessor (Checkout link here https://github.com/Jishanshaikh4/8086-Cheatsheet)
